@@ -7,6 +7,6 @@ A lightweight and customizable toast notification library or application for dis
 
 | **Technology** | **Purpose**                                      |
 |----------------|--------------------------------------------------|
-| **HTML**       | Structure of the web page                       |
-| **CSS**        | Styling for a clean, modern interface           |
-| **JavaScript** | Logic for age calculation and DOM interactions  |
+| **HTML**       | Structure of the web page                        |
+| **CSS**        | Styling for a clean, modern interface            |
+| **JavaScript** | Logic for api url and DOM interactions           |
